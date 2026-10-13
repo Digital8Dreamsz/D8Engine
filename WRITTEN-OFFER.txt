@@ -1,0 +1,17 @@
+WRITTEN OFFER OF SOURCE CODE: D8Engine 8.1
+
+D8Engine.exe and D8Probe.exe are unmodified builds of FFmpeg git commit
+5d4d3bdc61 (snapshot N-125875-g5d4d3bdc61, 2026-07-31) produced by
+BtbN/FFmpeg-Builds (win64-gpl), distributed under the GNU General Public
+License v3.
+
+The corresponding source is available at:
+  https://github.com/FFmpeg/FFmpeg
+  https://github.com/BtbN/FFmpeg-Builds
+
+For three (3) years from the date of distribution, you may also request a
+copy of the corresponding source on physical medium or by download for the
+cost of performing the distribution, by writing to:
+  jonesswordfish404@gmail.com
+
+Digital8Dreamz
