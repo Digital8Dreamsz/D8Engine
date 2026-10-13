@@ -2,7 +2,7 @@
 
 **A static Windows FFmpeg build from Digital8Dreamz (D8), licensed under the GNU GPL v3.**
 
-D8Engine is the media engine behind D8 tools such as CFF, Weld, CamWatch and Just Convert: a single `ffmpeg.exe` (shipped as `D8Engine.exe`, with `D8Probe.exe` as the ffprobe-style inspector) that needs no extra DLLs.
+D8Engine is the media engine behind D8 tools such as CFF, Weld, CamWatch and Just Convert: a single `ffmpeg.exe` (shipped as `D8Engine.exe`, with `D8Probe.exe` as the ffprobe-style inspector) that needs no extra DLLs.   **See it in action:** [D8 Converter](https://github.com/Digital8Dreamsz/D8Converter) is a free Windows converter (audio, video, GIF) built on D8Engine.
 
 [![License: GPL v3](https://img.shields.io/badge/license-GPL%20v3-blue.svg)](COPYING.GPLv3)
 [![Support on Ko-fi](https://img.shields.io/badge/Ko--fi-support-ff5e5b.svg)](https://ko-fi.com/digital8dreamsz)
